@@ -45,7 +45,7 @@ Used Zenmap to perform network discovery on my local network, identify active ho
 
 The full practical report, including methodology, findings, risk analysis, recommendations and evidence, is available here:
 
-[View the Week 2 Penetration Testing Report](reports/penetration-testing-report.md)
+[View the Week 2 Penetration Testing Report](reports/footprinting_report.odt)
 
 ## 5. Evidence
 
