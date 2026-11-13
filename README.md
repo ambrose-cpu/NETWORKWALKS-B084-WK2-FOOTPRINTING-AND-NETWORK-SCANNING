@@ -49,11 +49,33 @@ The full practical report, including methodology, findings, risk analysis, recom
 
 ## 5. Evidence
 
-Screenshots supporting the practical activities are organized into the following folders:
+### Footprinting Using Kali Linux Tools
 
-- `screenshots/footprinting/`
-- `screenshots/theharvester/`
-- `screenshots/zenmap/`
+**1. WHOIS**
+![WHOIS](screenshots/footprinting/whois-pracs.png)
+
+**2. WhatWeb**
+![WhatWeb](screenshots/footprinting/whatweb.png)
+
+**3. Nslookup**
+![Nslookup](screenshots/footprinting/nslookup.png)
+
+**4. cURL**
+![cURL](screenshots/footprinting/curl.png)
+
+**5. Wafw00f**
+![Wafw00f](screenshots/footprinting/wafw00f.png)
+
+**6. DNSRecon**
+![DNSRecon](screenshots/footprinting/dnsrecon.png)
+
+### theHarvester Footprinting
+
+![theHarvester](screenshots/theharvester/theHarvester.png)
+
+### Zenmap Network Scanning
+
+![Zenmap](screenshots/zenmap/zenmap.png)
 
 ## 6. Learning Outcomes
 
